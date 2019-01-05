@@ -5,9 +5,11 @@ there are some PoseLabelTools which are based on alphapose
 
 # User Guide：
 
-1.put these files in the root dir of AlphaPose and run.
+1. put these files in the root dir of AlphaPose .
 
-2.for PoseLabelTools
+2. use auto_extract_frame_tool to analyze video and generate frames and their keypoints result(you should change the dataDir to your video dir in the code).
+
+3. use myLabelTool to label the frames (you should change the dataDir)
 
 
 ### PS：If you have any questions, please contact me（QQ:995187509 e-mail：995187509@qq.com)
