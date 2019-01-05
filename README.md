@@ -5,7 +5,7 @@ there are some PoseLabelTools which are based on alphapose
 
 1.put these files in the root dir of AlphaPose and run.
 
-2.
+2.for PoseLabelTools
 
 
-### PS：有任何问题，可以联系我（QQ:995187509 邮箱：995187509@qq.com)
+### PS：If you have any questions, please contact me（QQ:995187509 e-mail：995187509@qq.com)
