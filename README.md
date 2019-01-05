@@ -1,7 +1,7 @@
 # PoseLabelTools
 there are some PoseLabelTools which are based on alphapose
 
-![image](https://github.com/lightfate/PoseLabelTools/master/images/myLabelTools-GUI.jpg)
+![image](https://github.com/lightfate/PoseLabelTools/blob/master/images/myLabelTools-GUI.jpg)
 
 # User Guide：
 
