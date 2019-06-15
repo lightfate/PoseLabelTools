@@ -12,4 +12,3 @@ there are some PoseLabelTools which are based on alphapose
 3. use myLabelTool to label the frames (you should change the dataDir)
 
 
-### PS：If you have any questions, please contact me（QQ:995187509 e-mail：995187509@qq.com)
